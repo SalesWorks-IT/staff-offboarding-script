@@ -1,0 +1,2 @@
+"Timestamp","Mode","AdminUser","DisplayName","UserPrincipalName","Status","Action","Result","Message"
+"2026-07-09 14:49:31","Execute","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","Confirm can remove","Hide From GAL","Failed","||The operation couldn't be performed because object 'simon.wallgren@salesworksgroup.com' couldn't be found on 'SG2PR03A02DC002.APCPR03A002.prod.outlook.com'."

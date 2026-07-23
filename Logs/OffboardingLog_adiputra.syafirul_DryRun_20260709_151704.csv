@@ -1,0 +1,7 @@
+"Timestamp","Mode","AdminUser","DisplayName","UserPrincipalName","Status","Action","Result","Message"
+"2026-07-09 15:17:09","DryRun","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Remove Manager","Planned","Would remove manager: Choi Li"
+"2026-07-09 15:17:10","DryRun","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Remove Role","Planned","Teams Administrator"
+"2026-07-09 15:17:10","DryRun","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Remove Role","Planned","Service Support Administrator"
+"2026-07-09 15:17:10","DryRun","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Remove Role","Planned","Global Reader"
+"2026-07-09 15:17:10","DryRun","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Block Sign-In","Planned","Would block sign-in"
+"2026-07-09 15:17:10","DryRun","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Delete User","Planned","Would delete user"

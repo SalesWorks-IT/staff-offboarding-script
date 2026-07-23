@@ -1,0 +1,5 @@
+"Timestamp","Mode","AdminUser","DisplayName","UserPrincipalName","Status","Action","Result","Message"
+"2026-07-23 16:29:34","DryRun","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Hide From GAL","Planned","Would hide user from GAL"
+"2026-07-23 16:29:35","DryRun","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Remove Manager","Planned","Would remove manager: Jason Lee"
+"2026-07-23 16:29:36","DryRun","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Remove Role","Skipped","No Entra roles assigned"
+"2026-07-23 16:29:36","DryRun","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Block Sign-In","Planned","Would block sign-in"

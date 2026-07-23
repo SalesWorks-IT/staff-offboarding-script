@@ -1,0 +1,5 @@
+"Timestamp","Mode","AdminUser","DisplayName","UserPrincipalName","Status","Action","Result","Message"
+"2026-07-09 14:51:27","Execute","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Remove Manager","Success","Manager removed"
+"2026-07-09 14:51:28","Execute","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Remove Role","Failed","[Authorization_RequestDenied] : Insufficient privileges to complete the operation."
+"2026-07-09 14:51:29","Execute","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Block Sign-In","Success","Sign-in blocked"
+"2026-07-09 14:51:29","Execute","adiputra.syafirul@salesworksgroup.com","Simon Wallgren","simon.wallgren@salesworksgroup.com","To be deleted","Delete User","Success","User deleted"

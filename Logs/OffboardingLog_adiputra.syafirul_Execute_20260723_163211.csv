@@ -1,0 +1,5 @@
+"Timestamp","Mode","AdminUser","DisplayName","UserPrincipalName","Status","Action","Result","Message"
+"2026-07-23 16:32:20","Execute","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Hide From GAL","Failed","||The operation couldn't be performed because object 'scott.sims@salesworksgroup.com' couldn't be found on 'JH0PR03A02DC003.APCPR03A002.prod.outlook.com'."
+"2026-07-23 16:32:21","Execute","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Remove Manager","Success","Manager removed"
+"2026-07-23 16:32:21","Execute","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Remove Role","Skipped","No Entra roles assigned"
+"2026-07-23 16:32:22","Execute","adiputra.syafirul@salesworksgroup.com","Scott Sims","scott.sims@salesworksgroup.com","Confrm can remove","Block Sign-In","Success","Sign-in blocked"
