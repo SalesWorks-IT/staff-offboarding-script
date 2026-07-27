@@ -2,7 +2,7 @@
 
 **Author:** Muhammad Adiputra Syafirul Hisyam  
 **Email:** adiputra.syafirul@salesworksgroup.com  
-**Updated since:** 09/07/2026
+**Updated since:** 23/07/2026
 
 ---
 
@@ -16,16 +16,16 @@ Actions performed are based on the **Status** column in the input CSV file.
 
 Performs:
 
-- Hide user from Global Address List (GAL)
+1. Hide from GAL
+2. Remove reporting manager
+3. Remove all roles
+4. Block sign-in
 
 ### To be deleted
 
 Performs:
 
-- Remove Reporting Manager
-- Remove Entra Roles
-- Block Sign-In
-- Delete User
+5. Delete user
 
 ---
 
@@ -83,16 +83,16 @@ The account executing the script should have appropriate permissions in:
 
 Required for:
 
-- Hide user from GAL
+- Hide from GAL
 
 ### Microsoft Entra ID
 
 Required for:
 
-- Remove Reporting Manager
-- Remove Entra Roles
-- Block Sign-In
-- Delete User
+- Remove reporting manager
+- Remove all roles
+- Block sign-in
+- Delete user
 
 Recommended roles:
 
@@ -200,7 +200,10 @@ Confrm can remove
 Action performed:
 
 ```text
-Hide user from GAL
+Hide from GAL
+Remove reporting manager
+Remove all roles
+Block sign-in
 ```
 
 ---
@@ -216,10 +219,7 @@ To be deleted
 Actions performed:
 
 ```text
-Remove Reporting Manager
-Remove Entra Roles
-Block Sign-In
-Delete User
+Delete user
 ```
 
 ---
